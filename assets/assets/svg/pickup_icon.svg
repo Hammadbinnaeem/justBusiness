@@ -1,0 +1,26 @@
+<svg id="Car" xmlns="http://www.w3.org/2000/svg" width="21" height="15.486" viewBox="0 0 21 15.486">
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="12" height="1" transform="translate(5 13.486)" fill="#999"/>
+  <rect id="Rectangle_9-2" data-name="Rectangle 9" width="21" height="1" transform="translate(0 5.486)" fill="#999"/>
+  <rect id="Rectangle_9-3" data-name="Rectangle 9" width="13.179" height="1.146" transform="translate(4.049)" fill="#999"/>
+  <rect id="Rectangle_9-4" data-name="Rectangle 9" width="5.348" height="1.146" transform="translate(5.306 0.389) rotate(109)" fill="#999"/>
+  <rect id="Rectangle_9-5" data-name="Rectangle 9" width="2.165" height="1.146" transform="translate(2.946 5.69) rotate(109)" fill="#999"/>
+  <rect id="Rectangle_9-6" data-name="Rectangle 9" width="2.165" height="1.146" transform="translate(19.625 7.737) rotate(-109)" fill="#999"/>
+  <rect id="Rectangle_9-7" data-name="Rectangle 9" width="5.348" height="1.146" transform="translate(17.974 5.446) rotate(-109)" fill="#999"/>
+  <rect id="Rectangle" width="3" height="3" transform="translate(18 3.486)" fill="#999"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="4" height="3" transform="translate(0 3.486)" fill="#999"/>
+  <rect id="Rectangle_9-8" data-name="Rectangle 9" width="5" height="2" transform="translate(9 9.486)" fill="#999"/>
+  <rect id="Rectangle_9-9" data-name="Rectangle 9" width="6" height="1" transform="translate(0 14.486)" fill="#999"/>
+  <rect id="Rectangle_9-10" data-name="Rectangle 9" width="5" height="1" transform="translate(16 14.486)" fill="#999"/>
+  <rect id="Rectangle_9-11" data-name="Rectangle 9" width="1" height="7" transform="translate(20 8.486)" fill="#999"/>
+  <rect id="Rectangle_9-12" data-name="Rectangle 9" width="2" height="7" transform="translate(0 8.486)" fill="#999"/>
+  <g id="Group" transform="translate(2 8.486)">
+    <rect id="Rectangle_9-13" data-name="Rectangle 9" width="1" height="3" transform="translate(3)" fill="#999"/>
+    <rect id="Rectangle_9-14" data-name="Rectangle 9" width="4" height="1" transform="translate(0 2)" fill="#999"/>
+    <rect id="Rectangle_9-15" data-name="Rectangle 9" width="4" fill="#999"/>
+  </g>
+  <g id="Group-2" data-name="Group" transform="translate(16 8.486)">
+    <rect id="Rectangle_9-16" data-name="Rectangle 9" width="1" height="3" fill="#999"/>
+    <rect id="Rectangle_9-17" data-name="Rectangle 9" width="4" height="1" transform="translate(0 2)" fill="#999"/>
+    <rect id="Rectangle_9-18" data-name="Rectangle 9" width="4" fill="#999"/>
+  </g>
+</svg>
